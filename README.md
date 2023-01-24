@@ -6,9 +6,7 @@ Install its dependencies while ignoring other yum errors:
 
 Install program dependencies:
 
-`python3 -m pip install pandas==1.1.5`
-`python3 -m pip install Cython==0.29.33`
-`python3 -m pip install pyarrow==0.13.0`
+`python3 -m pip install pandas==1.1.5 Cython==0.29.33 pyarrow==0.13.0`
 
 Then run the program with:
 
