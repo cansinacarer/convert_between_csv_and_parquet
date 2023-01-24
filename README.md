@@ -11,3 +11,5 @@ Install program dependencies:
 Then run the program with:
 
 `python3 convert_to_parquet.py test.csv`
+
+Put this py file in a folder that neolane owns.
